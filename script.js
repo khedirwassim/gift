@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 imagePath = "4K-image.jpg";
                 break;
             default:
-                imagePath = "default-image.jpg";
+                imagePath = "144p-image.jpg";
         }
 
         screenImage.src = imagePath;
