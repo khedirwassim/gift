@@ -1,0 +1,12 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.image-container {
+    margin-top: 20px;
+}
+
+#screenImage {
+    max-width: 80%;
+}
